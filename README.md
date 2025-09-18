@@ -1,4 +1,3 @@
-Here’s the full `README.md` file you can paste directly without needing to piece things together:  
 
 ```markdown
 # 📢 Placement Digest Agent  
